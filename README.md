@@ -1,5 +1,5 @@
 Hi 👋
 ## I work on
-Android, iOS, React-Native, Flutter
+Android, iOS, React/React-Native
 ## I understand
-Kotlin, Java, Swift, GoLang, Python, TS, Dart
+Kotlin, Java, Swift, GoLang, Python, Typescript
